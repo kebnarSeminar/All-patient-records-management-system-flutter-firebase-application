@@ -33,10 +33,10 @@ Backend:
 <i>send email to info@elishcosulting.com for Pro version enquiries.</i>
 
 ## Product Images
-![Pic 1](./images/hms_pic_1.png)
-![Pic 2](./images/hms_pic_2.png)
-![Pic 3](./images/hms_pic_3.png)
-![Pic 4](./images/hms_pic_4.png)
+![Pic 1](.hms_pic_1.png)
+![Pic 2](.hms_pic_2.png)
+![Pic 3](.hms_pic_3.png)
+![Pic 4](.hms_pic_4.png)
 ## How to Install
 <ul>
     <li>Install Flutter environment</li>
