@@ -1,0 +1,2 @@
+# All-patient-records-management-system-flutter-firebase-application
+this android application will enable health care provider to record all patient related data and patient will be able to see all of the his/her records from every where by using his smartphone and internet connection and also this system will provide interface for all system user based on their role based access and also push notification is done
