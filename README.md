@@ -9,7 +9,7 @@ Complete Healthcare Management (Patient, OPD, IPD, Rx, Lab)  in Flutter Firebase
 - If you like this project, please consider giving it a star (*) and follow me at GitHub & YouTube.
 ```
 ## Objective 
-Manage OPD, IPD, Pathology, WebMD, Rx, Patient Appointments<br/><br/>
+Manage OPD, IPD, Pathology, WebMD, Rx, Patient Appointments,Push Notification<br/><br/>
 ## Technologies
 ```sbtshell
 Frontend: Flutter
