@@ -2,7 +2,7 @@
 Note:This application was built for specific hospital so The database for this application is controlled by them and 
 If you want to create your own application with your own database feel free to impelement
 first click the following channel to view guidline for your project then if you get any trouble you can contact me through seminarkebnar@gmail.com or pu inside the comment section on my youtube channel
-<p>Please Don't forget to subscribe first<a href="https://www.youtube.com/@KebnarTube-br8un/playlists">Click here</a></p> 
+<p>Please Don't forget to subscribe first<a href="https://www.youtube.com/@KebnarTube-br8un/playlists">  🔗Click here</a></p> 
 Complete Healthcare Management (Patient, OPD, IPD, Rx, Lab)  in Flutter Firebase App for iOS Android and Web
 
 ```diff
