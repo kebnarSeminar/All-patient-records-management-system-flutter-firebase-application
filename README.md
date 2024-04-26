@@ -1,27 +1,15 @@
-# Flutter FireBase Healthcare Management App
-Complete Healthcare Management (Patient, OPD, IPD, Rx, Lab) in Flutter Firebase App for iOS Android and Web
+# Flutter FireBase Healthcare Management App For Arbaminch General Hospital
+Note:This application was built for specific hospital so The database for this application is controlled by them and 
+If you want to create your own application with your own database feel free to impelement
+first click the following channel to view guidline for your project then if you get any trouble you can contact me through seminarkebnar@gmail.com or pu inside the comment section on my youtube channel
+<p>Please Don't forget to subscribe first<a href="https://www.youtube.com/@KebnarTube-br8un/playlists">Click here</a></p> 
+Complete Healthcare Management (Patient, OPD, IPD, Rx, Lab)  in Flutter Firebase App for iOS Android and Web
 
 ```diff
 - If you like this project, please consider giving it a star (*) and follow me at GitHub & YouTube.
 ```
-[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/AmitShukla_AI)
-[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/github.svg" width=40 height=50>](https://github.com/AmitXShukla)
-[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/medium.svg" width=40 height=50>](https://medium.com/@Amit_Shukla)
-[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
-
-# Elish HMS
-
-Elish Healthcare Management System App
-
 ## Objective 
 Manage OPD, IPD, Pathology, WebMD, Rx, Patient Appointments<br/><br/>
-
-<i>Due to current Covid-19 situation,<br/>
-Patient's private data is not stored in app and location tracing functionality is not available with out government/authorities approval.</i>
-## Getting Started
-
-This project is a community version and is absolutely free for private use.<br/>
-<a href="https://www.youtube.com/playlist?list=PLp0TENYyY8lHNMTAlrfVQKzAvQo3yzHYk">click here for Demo & Video tutorials</a>
 ## Technologies
 ```sbtshell
 Frontend: Flutter
@@ -30,13 +18,6 @@ Backend:
             or
         Option 2: NodeJS + Oracle or MYSql or MSSQL Server (not available as community version)
 ``` 
-
-## Related Apps
-<ul>
-<li><a href="https://getcovidvaccine.web.app/">Vaccine Distribution App</a></li>
-<li><a href="https://www.youtube.com/watch?v=MkV413X2Kmw&list=PLp0TENYyY8lHL-G7jGbhpJBhVb2UdTOhQ&index=1&t=698s">Pandemic Contact Tracing, Visitor Management, Mobile Assets/Employee Attendance App</a></li>
-</ul>
-
 ## Features
 <ul>
 <li>Store millions of records with lightening fast data retrieval</li>
@@ -52,16 +33,11 @@ Backend:
 <i>send email to info@elishcosulting.com for Pro version enquiries.</i>
 
 ## Product Images
-
 ![Pic 1](./images/hms_pic_1.png)
 ![Pic 2](./images/hms_pic_2.png)
 ![Pic 3](./images/hms_pic_3.png)
 ![Pic 4](./images/hms_pic_4.png)
-
-
-
 ## How to Install
-
 <ul>
     <li>Install Flutter environment</li>
     <li>Download This GitHub repository</li>
@@ -70,7 +46,6 @@ Backend:
     <li>Copy Firebase Project Config settings and replace variable firebaseConfig at src/web/index.html</li>
     <li>enable Firebase social authentications</li>
     <li>update Firebase Rules</li>
-
 ```sbtshell
     rules_version = '2';
     service cloud.firestore {
