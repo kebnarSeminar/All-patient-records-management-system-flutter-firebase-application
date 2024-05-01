@@ -30,7 +30,7 @@ Backend:
 <li>Social authentication (Pro)</li>
 <li>SMS, EMAIL, WhatsAPP API (Pro)</li>
 </ul>
-<i>send email to info@elishcosulting.com for Pro version enquiries.</i>
+<i>send email to seminarkebnar@gmail.com for Pro version enquiries.</i>
 
 ## Product Images
 ![Pic 1](hms_pic_1.png)
